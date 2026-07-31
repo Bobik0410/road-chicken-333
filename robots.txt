@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://road-chicken-333.pages.dev/sitemap.xml
+Sitemap: https://road-chicken-333-24z.pages.dev/sitemap.xml
